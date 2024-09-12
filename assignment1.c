@@ -1,3 +1,5 @@
+//Nathan Treibitz 5599321
+
 #include <stdio.h>
 #include <math.h>
 
